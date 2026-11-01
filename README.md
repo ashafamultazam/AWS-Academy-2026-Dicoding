@@ -213,7 +213,7 @@ Bagian ini sengaja ditulis terbuka agar hasil proyek dibaca dengan benar:
 
 ## 👤 Penulis
 
-**Asha Fa Multazam** — [GitHub](https://github.com/ashafamultazam)
+**Ashafa Multazam** — [GitHub](https://github.com/ashafamultazam)
 
 ## 🙏 Ucapan Terima Kasih
 
